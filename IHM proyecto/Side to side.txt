@@ -1,0 +1,21 @@
+Informacion del libro: Side to side 
+
+ Isbn: 1 
+
+ Titulo: Side to side 
+
+ Autor: Unknown 
+
+ Fecha de edicion: 12/Mayo/1998
+ Estatus:  
+Ocupado 
+
+ Edicion: Bloqueada 
+
+Informacion del libro: Side to Side, 
+ Isbn: 1, 
+ Titulo: Side to Side, 
+ Autor: unknown, 
+ Fecha de edicion: 17/Mayo/1998
+ Estatus: , asd, 
+ Edicion: asd
